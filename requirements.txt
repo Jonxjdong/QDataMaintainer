@@ -1,0 +1,4 @@
+baostock
+pandas
+pyarrow
+sqlalchemy
